@@ -10,9 +10,9 @@ Beat The Dealer.
 
 How do you beat the dealer?
 
-1- By drawing a hand value that is higher than the dealer’s hand value
-2- By the dealer drawing a hand value that goes over 21.
-3- By drawing a hand value of 21 on your first two cards, when the dealer does not.
+(1) By drawing a hand value that is higher than the dealer’s hand value
+(2) By the dealer drawing a hand value that goes over 21.
+(3) By drawing a hand value of 21 on your first two cards, when the dealer does not.
 
 How do you lose to the dealer? 
 
